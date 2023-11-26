@@ -1,0 +1,13 @@
+{
+  "name": "@abhilashdk-ds/react",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "@abhilashdk-ds/foundation": "workspace:^"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

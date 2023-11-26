@@ -1,0 +1,12 @@
+{
+  "name": "@abhilashdk-ds/storybook",
+  "packageManager": "yarn@4.0.2",
+  "private": true,
+  "dependencies": {
+    "@abhilashdk-ds/foundation": "workspace:^",
+    "@abhilashdk-ds/react": "workspace:^"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}

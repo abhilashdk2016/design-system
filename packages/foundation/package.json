@@ -1,0 +1,12 @@
+{
+  "name": "@abhilashdk-ds/foundation",
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "style-dictionary": "^3.9.0",
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "build-tokens": "style-dictionary build --config sd.config.js",
+    "build": "yarn build-tokens && tsc"
+  }
+}
